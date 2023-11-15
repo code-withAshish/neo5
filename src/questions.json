@@ -1,0 +1,302 @@
+[
+  {
+    "question": "I am not a worrier.",
+    "type": "N",
+    "category": "Neuroticism"
+  },
+  {
+    "question": "I like to have a lot of people around me.",
+    "type": "P",
+    "category": "Extraversion"
+  },
+  {
+    "question": "I don't like to waste my time daydreaming.",
+    "type": "N",
+    "category": "Openness"
+  },
+  {
+    "question": "I try to be courteous to everyone I meet.",
+    "type": "P",
+    "category": "Agreeableness"
+  },
+  {
+    "question": "I keep my belongings clean and neat.",
+    "type": "P",
+    "category": "Conscientiousness"
+  },
+  {
+    "question": "I often feel inferior to others.",
+    "type": "N",
+    "category": "Neuroticism"
+  },
+  {
+    "question": "I laugh easily.",
+    "type": "P",
+    "category": "Extraversion"
+  },
+  {
+    "question": "Once I find the right way to do something, I stick to it.",
+    "type": "N",
+    "category": "Openness"
+  },
+  {
+    "question": "I often get into arguments with my family and co-workers.",
+    "type": "N",
+    "category": "Agreeableness"
+  },
+  {
+    "question": "I'm pretty good about pacing myself so as to get things done on time.",
+    "type": "P",
+    "category": "Conscientiousness"
+  },
+  {
+    "question": "When I'm under a great deal of stress, sometimes I feel like I'm going to peace.",
+    "type": "P",
+    "category": "Neuroticism"
+  },
+  {
+    "question": "I don't consider myself especially 'light-hearted'.",
+    "type": "N",
+    "category": "Extraversion"
+  },
+  {
+    "question": "I am intrigued by the patterns I find in art and nature.",
+    "type": "P",
+    "category": "Openness"
+  },
+  {
+    "question": "Some people think I'm selfish and egotistical.",
+    "type": "N",
+    "category": "Agreeableness"
+  },
+  {
+    "question": "I am not a very methodical person.",
+    "type": "N",
+    "category": "Conscientiousness"
+  },
+  {
+    "question": "I rarely feel lonely or blue.",
+    "type": "P",
+    "category": "Neuroticism"
+  },
+  {
+    "question": "I really enjoy talking to people.",
+    "type": "P",
+    "category": "Extraversion"
+  },
+  {
+    "question": "I believe letting students hear controversial speakers can only confuse and mislead them.",
+    "type": "N",
+    "category": "Openness"
+  },
+  {
+    "question": "I would rather cooperate with others than compete with them.",
+    "type": "P",
+    "category": "Agreeableness"
+  },
+  {
+    "question": "I try to perform all the tasks assigned to me conscientiously.",
+    "type": "P",
+    "category": "Conscientiousness"
+  },
+  {
+    "question": "I often feel tense and jittery.",
+    "type": "P",
+    "category": "Neuroticism"
+  },
+  {
+    "question": "I like to be where the action is.",
+    "type": "P",
+    "category": "Extraversion"
+  },
+  {
+    "question": "Poetry has little or no effect on me.",
+    "type": "N",
+    "category": "Openness"
+  },
+  {
+    "question": "I tend to be cynical and skeptical of others' intentions.",
+    "type": "N",
+    "category": "Agreeableness"
+  },
+  {
+    "question": "I have a clear set of goals and work towards them in an orderly fashion.",
+    "type": "P",
+    "category": "Conscientiousness"
+  },
+  {
+    "question": "Sometimes I feel completely worthless.",
+    "type": "P",
+    "category": "Neuroticism"
+  },
+  {
+    "question": "I usually prefer to do things alone.",
+    "type": "N",
+    "category": "Extraversion"
+  },
+  {
+    "question": "I often try new and foreign foods.",
+    "type": "P",
+    "category": "Openness"
+  },
+  {
+    "question": "I believe that most people will take advantage of you if you let them.",
+    "type": "N",
+    "category": "Agreeableness"
+  },
+  {
+    "question": "I waste a lot of time before sitting down to work.",
+    "type": "N",
+    "category": "Conscientiousness"
+  },
+  {
+    "question": "I rarely feel fearful or anxious.",
+    "type": "N",
+    "category": "Neuroticism"
+  },
+  {
+    "question": "I often feel as if I'm bursting with energy.",
+    "type": "P",
+    "category": "Extraversion"
+  },
+  {
+    "question": "I seldom notice the moods or feelings that different environments produce.",
+    "type": "N",
+    "category": "Openness"
+  },
+  {
+    "question": "Most people I know like me.",
+    "type": "P",
+    "category": "Agreeableness"
+  },
+  {
+    "question": "I work hard to accomplish my goals.",
+    "type": "P",
+    "category": "Conscientiousness"
+  },
+  {
+    "question": "I often get angry at the way people treat me.",
+    "type": "P",
+    "category": "Neuroticism"
+  },
+  {
+    "question": "I am a cheerful, high-spirited person.",
+    "type": "P",
+    "category": "Extraversion"
+  },
+  {
+    "question": "I believe we should look to our religious authorities for decisions on moral issues.",
+    "type": "N",
+    "category": "Openness"
+  },
+  {
+    "question": "Some people think of me as cold and calculating.",
+    "type": "N",
+    "category": "Agreeableness"
+  },
+  {
+    "question": "When I make a commitment, I can always be counted on to follow through.",
+    "type": "P",
+    "category": "Conscientiousness"
+  },
+  {
+    "question": "Too often, when things go wrong, I get discouraged and feel like giving up.",
+    "type": "P",
+    "category": "Neuroticism"
+  },
+  {
+    "question": "I am not a cheerful optimist.",
+    "type": "N",
+    "category": "Extraversion"
+  },
+  {
+    "question": "Sometimes when I am reading poetry or looking at a work of art, I feel a chill or wave of excitement.",
+    "type": "P",
+    "category": "Openness"
+  },
+  {
+    "question": "I'm hard-headed and tough-minded in my attitudes.",
+    "type": "N",
+    "category": "Agreeableness"
+  },
+  {
+    "question": "Sometimes I'm not as dependable or reliable as I should be.",
+    "type": "N",
+    "category": "Conscientiousness"
+  },
+  {
+    "question": "I am seldom sad or depressed.",
+    "type": "N",
+    "category": "Neuroticism"
+  },
+  {
+    "question": "My life is fast-paced.",
+    "type": "P",
+    "category": "Extraversion"
+  },
+  {
+    "question": "I have little interest in speculating on the nature of the universe or the human condition.",
+    "type": "N",
+    "category": "Openness"
+  },
+  {
+    "question": "I generally try to be thoughtful and considerate.",
+    "type": "P",
+    "category": "Agreeableness"
+  },
+  {
+    "question": "I am a productive person who always gets the job done.",
+    "type": "P",
+    "category": "Conscientiousness"
+  },
+  {
+    "question": "I often feel helpless and want someone else to solve my problems.",
+    "type": "P",
+    "category": "Neuroticism"
+  },
+  {
+    "question": "I am a very active person.",
+    "type": "P",
+    "category": "Extraversion"
+  },
+  {
+    "question": "I have a lot of intellectual curiosity.",
+    "type": "P",
+    "category": "Openness"
+  },
+  {
+    "question": "If I don't like people, I let them know it.",
+    "type": "N",
+    "category": "Agreeableness"
+  },
+  {
+    "question": "I never seem to be able to get organized.",
+    "type": "N",
+    "category": "Conscientiousness"
+  },
+  {
+    "question": "At times I have been so ashamed I just wanted to hide.",
+    "type": "P",
+    "category": "Neuroticism"
+  },
+  {
+    "question": "I would rather go my own way than be a leader of others.",
+    "type": "N",
+    "category": "Extraversion"
+  },
+  {
+    "question": "I often enjoy playing with theories or abstract ideas.",
+    "type": "P",
+    "category": "Openness"
+  },
+  {
+    "question": "If necessary, I am willing to manipulate people to get what I want.",
+    "type": "P",
+    "category": "Agreeableness"
+  },
+  {
+    "question": "I strive for excellence in everything I do.",
+    "type": "P",
+    "category": "Conscientiousness"
+  }
+]
